@@ -1,5 +1,3 @@
 document.addEventListener("DOMContentLoaded", function() {
-    console.log("Portfolio Loaded Successfully!");
+    console.log("Welcome to Falguni's Portfolio!");
 });
-
-
